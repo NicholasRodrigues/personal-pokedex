@@ -1,0 +1,9 @@
+React-Native Documentation: https://reactnative.dev/docs/getting-started
+React-Native GitHub: https://github.com/facebook/react-native
+React-Native Issues: https://github.com/facebook/react-native/issues
+Expo Router Documentation: https://docs.expo.dev/routing/installation/#quick-start
+Expo GitHub: https://github.com/expo/expo
+Expo Issues: https://github.com/expo/expo/issues
+PokeAPI for Pokémon data: https://pokeapi.co/
+Styled Components for styling: https://styled-components.com/
+React Navigation for screen navigation: https://reactnavigation.org/
