@@ -1,6 +1,3 @@
-# Let's write the content to a README.md markdown file
-
-readme_content = """
 # Pokedex React Native App
 
 ## Table of Contents
@@ -58,14 +55,6 @@ Listed below are the major dependencies for the Pokedex React Native App:
 
 Please refer to `package.json` for a complete list of dependencies.
 
-## Configuration
-
-Before running the app, you might need to configure environment variables for the API endpoint if you're using a custom Pokémon data source. Create a `.env` file in the root of your project and add your API endpoint:
-
-\```env
-API_URL=https://yourapi.com/api/v1
-\```
-
 ## Documentation
 
 For more detailed documentation on how to use each component and service within the app, please refer to the `docs` directory.
@@ -75,9 +64,6 @@ For more detailed documentation on how to use each component and service within 
 If you encounter any issues while setting up or running the app, please first ensure that all dependencies have been correctly installed. Also, check if your environment is set up for React Native development as per the official documentation.
 
 ## Contributors
-
-- Jane Doe (@janedoe) - Initial work
-- John Smith (@johnsmith) - Additional features
 
 We welcome contributions from the community. If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
